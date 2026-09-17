@@ -1,6 +1,26 @@
 
 > Open this page at [https://alexgoff.github.io/battle-game/](https://alexgoff.github.io/battle-game/)
 
+## About
+
+A space shooters type game for two Microbit controllers, played over radio connection
+
+### UI
+
+```
+. . . . . [ Opponent shield down indicator ]
+. . . . .
+. . . . . [ Shields up/down ]
+. . . . . [ Health ]
+. . . . . [ Ship power ]
+```
+
+### Gameplay
+
+A - Attack, ship must have some power to attack
+
+B - Hold down to keep shields up, shields will slowly drain the ship's power
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
